@@ -1,0 +1,1 @@
+huffman coding is a compression algorithm that assigns variable-length codes to characters based on their frequencies in the text
