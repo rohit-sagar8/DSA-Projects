@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+huffman coding is a compression algorithm that assigns variable-length codes to characters based on their frequencies in the text
+=======
+huffman coding is a compression algorithm that assigns variable-length codes to characters based on their frequencies in the text
+>>>>>>> 66108320d113e49ccbb8956cddcf0a5f1c3568e1
