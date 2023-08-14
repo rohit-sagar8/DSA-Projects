@@ -1,10 +1,10 @@
-#Project Report: Sorting Algorithm Visualizer
+# Project Report: Sorting Algorithm Visualizer
 
-#1. Introduction:
+# 1. Introduction:
 
 The Sorting Algorithm Visualizer project aims to create an interactive Python application that visually demonstrates various sorting algorithms. Sorting algorithms are fundamental in computer science, and their performance greatly impacts efficiency. This project offers an educational and engaging way to understand how different sorting algorithms work and how they compare.
 
-#2. Implementation:
+# 2. Implementation:
 
 The project is implemented using the Python programming language and the matplotlib library for creating visualizations. The key components of the project include:
 
@@ -18,7 +18,7 @@ Visualization: The sorting process is visualized using bar charts. The matplotli
 
 Animation: The matplotlib.animation module is used to animate the sorting process. The animation function updates the chart at each step of the algorithm, reflecting the changes in the data during sorting.
 
-#3. Conclusion and Learning:
+# 3. Conclusion and Learning:
 
 The Sorting Algorithm Visualizer project provides an effective way to learn and compare different sorting algorithms. The user can choose among various algorithms and observe how each algorithm operates on a set of data. The project emphasizes the following key takeaways:
 
