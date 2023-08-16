@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import pickle
 
 class HuffmanNode:
@@ -86,7 +85,7 @@ if __name__ == "__main__":
 
     compress_file(input_filename, compressed_filename)
     decompress_file(compressed_filename, decompressed_filename)
-=======
+
 import pickle
 
 class HuffmanNode:
@@ -174,4 +173,3 @@ if __name__ == "__main__":
 
     compress_file(input_filename, compressed_filename)
     decompress_file(compressed_filename, decompressed_filename)
->>>>>>> 66108320d113e49ccbb8956cddcf0a5f1c3568e1
